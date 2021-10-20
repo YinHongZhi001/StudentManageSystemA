@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GobangProgram2.0(YinHongzhi)/GobangProgram3.0.iml" filepath="$PROJECT_DIR$/../GobangProgram2.0(YinHongzhi)/GobangProgram3.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JAVA_ClassRoom/JAVA_ClassRoom.iml" filepath="$PROJECT_DIR$/../JAVA_ClassRoom/JAVA_ClassRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JAVA_Study/JAVA_Study.iml" filepath="$PROJECT_DIR$/../JAVA_Study/JAVA_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyJavaPractise/MyJavaPractise.iml" filepath="$PROJECT_DIR$/../MyJavaPractise/MyJavaPractise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentManageSystem.iml" filepath="$PROJECT_DIR$/StudentManageSystem.iml" />
+    </modules>
+  </component>
+</project>
